@@ -182,6 +182,10 @@ export default {
 		ignoreCompositionEvent: {
 			type: Boolean,
 			default: true
+		},
+		showPassword: {
+			type: Boolean,
+			default: false
 		}
 	}
 }
